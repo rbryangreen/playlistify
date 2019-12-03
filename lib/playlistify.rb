@@ -1,1 +1,1 @@
-"hi"
+songs = File.readlines('songlist.txt')
